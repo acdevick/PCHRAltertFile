@@ -30,6 +30,6 @@
 	- We recently just had our biggest Go Live for our team, where we deployed 11 different applications all at once, 7 of which were all brand new.
 	- There's one service and one API that communicates to all the other background processes that create all the work for 2 different Distribution Centers that operate 24-7
 	- The process takes orders, turns them into invoices, reduces Inventory, processes data from the warehouse, then bills all product on the back end
-	- Learning the API and finally having an app that updates data for all users signed so everyone can see what is happening what is happening orders are begin processes was really awesome
+	- Learning the API and finally having an app that updates data for all users signed in where everyone can see what is happening when orders are begin processes was really awesome to me
 
 	
