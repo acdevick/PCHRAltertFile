@@ -15,7 +15,7 @@
 	- Octopus and Team City are new to me but have been amazing to use, we just went through a huge Go Live where we deployed 11 apps all at once and the quick ability to fix a bug and approve the PR then get it into Prod by simply pushing a button was amazing.
 ## Git Commands
 - Actually I rarely ever use Git Commands I use the GitHub Extension in Visual Studio but I've used command line a little bit.  
-	- Functions I use with the GitHub Extension: Push, Fetch, Pull, Squash, Merge, Commit, Clone, branches etc.
+	- Functions I use with the GitHub Extension: Push, Fetch, Pull, Squash, Merge, Commit, Clone, Branches, Prune
 	- Commands Line usage 
 		- git commit -m "message" - Just the standard way to commit changes
 		- git status - see what changed
