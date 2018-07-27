@@ -4,7 +4,7 @@
 - Technologies I know
    - Languages: SQL, C#, Linq, XML, JSON, Java, HTML, CSS, Java Script
 	- Frameworks & Methodologies: .NET, MVVM, WPF, Entity Framework, Scrum, Agile, TDD, NPM, 
-	- Software & Dev Tools: Visual Studio, SSMS, API’s, Git, GitHub, Nuget Packages, DevExpress, RedGate, JIRA, Octopus, Team City, Artifactory, Moq, Slack, TFS, cmder, Nlog Microsoft Office Suite
+	- Software & Dev Tools: Visual Studio, SSMS, API’s, Git, GitHub, Nuget Packages, DevExpress, RedGate, JIRA, Octopus, Team City, Artifactory, Moq, Slack, TFS, cmder, Nlog, Microsoft Office Suite
 	- Operating Systems: Windows, Macintosh
 - Stole the above right off my resume but here are some things I like
 	- C# is similar to Java what I learned in college, so it being familiar when I started was very helpful.  I have learned to love it, but it is what I have done the majority of my career. 
