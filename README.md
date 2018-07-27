@@ -14,22 +14,22 @@
 	-I like .Net for all the documentation and support that exists vs. Java Script
 	-Octopus and Team City are new to be but have been amazing to use, we just went through a huge Go Live where we deployed 7 apps all at once and the quick ability to fix a bug and approve the PR then get it into Prod by simply pushing a button was amazing.
 ## Git Commands
-- Actually I rarely ever use Git Commands I use the GitHub Extension in Visual Studio but the I have used command line a little bit.  
+- Actually I rarely ever use Git Commands I use the GitHub Extension in Visual Studio but I've used command line a little bit.  
 	- Functions I use with the GitHub Extension: Push, Fetch, Pull, Squash, Merge, Commit, Clone, branches etc.
 	- Commands Line usage 
 		- git commit -m "message" - Just the standard way to commit changes
 		- git status - see what changed
 ## Continuing Education
--How I learn
-	-Call me weird or old school but sometimes I learn better with a book, whether it be a textbook or a topical book on the subject.  But for me I want to learn the why and the evolution if how we got to the tools we use today.  Example like when you learn something in math class the hard way to an answer, then you later learn the short cut.  You better understand the easy way now that you have been through the hard way first, vs. strait to the easy answer.  For me this helps because a lot of what you find online is tickets to the easy but when asked why you did it that way you end up not having a good answer, other than I don't know I just stole it online.  No I am all for stealing solutions online, but if I am learning I like to know how and why they did it a particular way.
-		-I have books on: C#, SQL, JS, WPF etc.
-	-My current position I have not had hardly any time to do continuing education other than what is needed in the moment, due to constant strict deadlines without enough help to carry the load.  That is one thing I am excited about with this opportunity to not worry about all the politics and I can focus on my craft, and learning more.
-	-I have used Pluralsight and Linda.com videos and test projects to learn, obviously Stackover flow to help when I get stuck
-	-I like just trying out test projects to see what all I can do with the new technology, so learning by doing
--Interesting Projects I am currently working on: 
-	-We recently just had our biggest Go Live for our team, where we deployed 11 different applications all at once, 7 of which were all brand new.
-	-There's one service and one API that communicated to all the other back ground processes that create all the work for 2 different Distribution Centers that operate 24-7
-	-The process takes orders, turns them into invoices, reduces Inventory, processes data from the warehouse, then bills all product on the back end
-	-Learning the API and finally having an app that updates data for all users signed so everyone can see what is happening what is happening orders are begin processes was really awesome
+- How I learn
+	- Call me weird or old school but sometimes I learn better with a book, whether it be a textbook or a topical book on the subject.  But for me I want to learn the why and the evolution if how we got to the tools we use today.  Example like when you learn something in math class the hard way to an answer, then you later learn the short cut.  You better understand the easy way now that you have been through the hard way first, vs. strait to the easy answer.  For me this helps because a lot of what you find online is tickets to the easy but when asked why you did it that way you end up not having a good answer, other than I don't know I just stole it online.  No I am all for stealing solutions online, but if I am learning I like to know how and why they did it a particular way.
+		- I have books on: C#, SQL, JS, WPF etc.
+	- My current position I have not had hardly any time to do continuing education other than what is needed in the moment, due to constant strict deadlines without enough help to carry the load.  That is one thing I am excited about with this opportunity to not worry about all the politics and I can focus on my craft, and learning more.
+	- I have used Pluralsight and Linda.com videos and test projects to learn, obviously Stackover flow to help when I get stuck
+	- I like just trying out test projects to see what all I can do with the new technology, so learning by doing
+- Interesting Projects I am currently working on: 
+	- We recently just had our biggest Go Live for our team, where we deployed 11 different applications all at once, 7 of which were all brand new.
+	- There's one service and one API that communicated to all the other back ground processes that create all the work for 2 different Distribution Centers that operate 24-7
+	- The process takes orders, turns them into invoices, reduces Inventory, processes data from the warehouse, then bills all product on the back end
+	- Learning the API and finally having an app that updates data for all users signed so everyone can see what is happening what is happening orders are begin processes was really awesome
 
 	
